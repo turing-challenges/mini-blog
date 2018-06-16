@@ -9,7 +9,10 @@ categories: problem resolution
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 Find the sum of all the multiples of 3 or 5 below 1000.
 
+---
 
 [camilotx](https://github.com/camilotx): O algoritmo é simples. realizei um for de N, a cada interação eu verificava se o 5 3 3, no modulo de N, naquele momento, era igual a 0. Caso fosse eu somava a uma variável temporária. A cada volta do loop, eu decrementava 1.
 
 projeto: [https://github.com/camilotx/turing-challenges/tree/master/multiples-of-3-and-5](https://github.com/camilotx/turing-challenges/tree/master/multiples-of-3-and-5)
+
+---
