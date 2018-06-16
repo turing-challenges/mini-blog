@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Crivo de Atkin"
+title:  "Multiples of 3 and 5"
 date:   2018-06-16 10:44 -0300
-categories: algoritmo numeros-primos
+categories: problem resolution
 ---
 # Multiples of 3 and 5
 ## Problem 1
