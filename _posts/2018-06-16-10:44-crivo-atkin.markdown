@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Crivo de Atkin"
+date:   2018-06-16 10:44 -0300
+categories: algoritmo numeros-primos
+---
+Crivo de Atkin é um algoritmo matemático moderno usado para encontrar todos os números primos até determinado valor máximo. Ele é uma versão aprimorada do Crivo de Eratóstenes e com um desempenho assintótico melhor. Foi criado em 2003 por Arthur Oliver Lonsdale Atkin e Daniel J. Bernstein.
