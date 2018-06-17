@@ -12,7 +12,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 ### Comentários
 
-[camilotx](https://github.com/camilotx): O algoritmo é simplea, realizei um loop N vezes e a cada interação, verificava se o resultado do modulo dd 5 e 3 era 0.  Se o caso fosse verdade, somava o valor à variável tmp. A cada iteração decrementava 1.
+[camilotx](https://github.com/camilotx): O algoritmo é simples, realizei um loop N vezes e a cada interação, verificava se o resultado do modulo dd 5 e 3 era 0.  Se o caso fosse verdade, somava o valor à variável tmp. A cada iteração decrementava 1.
 **complexidade**: O(N).
 
 **projeto**: [https://github.com/camilotx/turing-challenges/blob/master/multiples-of-3-and-5/main.cpp](https://github.com/camilotx/turing-challenges/blob/master/multiples-of-3-and-5/main.cpp)
