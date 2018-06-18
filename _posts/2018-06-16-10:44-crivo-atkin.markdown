@@ -4,6 +4,8 @@ title:  "Crivo de Atkin"
 date:   2018-06-16 10:44 -0300
 categories: algoritmo numeros-primos
 ---
+breadscrumbs: [index](http://turing-challenges.github.io/) >> [mini-blog](http://turing-challenges.github.io/mini-blog) >>  Crivo de Atkin
+
 Crivo de Atkin é um algoritmo matemático moderno usado para encontrar todos os números primos até determinado valor máximo. Ele é uma versão aprimorada do Crivo de Eratóstenes e com um desempenho assintótico melhor. Foi criado em 2003 por Arthur Oliver Lonsdale Atkin e Daniel J. Bernstein.
 
 ![Crivo de Atkin](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
