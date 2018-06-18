@@ -4,6 +4,9 @@ title:  "Multiples of 3 and 5"
 date:   2018-06-16 10:44 -0300
 categories: problem resolution
 ---
+
+breadscrumbs: [index](http://turing-challenges.github.io/) >> [mini-blog](http://turing-challenges.github.io/mini-blog) >>  Multiples of 3 and 5
+
 ## Problem 1
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
