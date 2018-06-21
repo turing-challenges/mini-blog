@@ -20,3 +20,6 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 **projeto**: [https://github.com/camilotx/turing-challenges/blob/master/multiples-of-3-and-5/main.cpp](https://github.com/camilotx/turing-challenges/blob/master/multiples-of-3-and-5/main.cpp)
 
+
+#Resolução
+link para PDF da resolução: [Problem 1. Find the sum of all the multiples of 3 or 5 below 1000](https://projecteuler.net/overview=001)
